@@ -1,0 +1,17 @@
+{
+  "name": "random_user_crud_application_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "start_dev": "node index.js"
+  },
+  "author": "Abdur Raihan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
